@@ -1,6 +1,6 @@
 # Hi, I'm Parami 👋
 
-🎓 Software Engineering Student | Sri Lanka 🇱🇰  
+🎓 Software Engineering Student | Sri Lanka
 💻 Aspiring Full-Stack Developer | 🤖 Future AI Enthusiast  
 
 ---
