@@ -1,4 +1,31 @@
-## Hi there 👋
+# Hi, I'm Parami 👋
+
+🎓 Software Engineering Student | Sri Lanka 🇱🇰  
+💻 Aspiring Full-Stack Developer | 🤖 Future AI Enthusiast  
+
+---
+
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+*Currently learning:* Node.js, React, UI/UX (Figma)
+
+---
+
+## 📌 Projects
+- **Mine Ease** – Collaborative academic project  
+*(Repo on my GitHub profile)*
+
+---
+
+## 🎯 Goal
+Build strong full-stack skills and expand into AI.
+
 
 <!--
 **Parami2318/Parami2318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
