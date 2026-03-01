@@ -16,15 +16,6 @@
 
 ---
 
-## 📌 Projects
-- **Mine Ease** – Collaborative academic project  
-*(Repo on my GitHub profile)*
-
----
-
-## 🎯 Goal
-Build strong full-stack skills and expand into AI.
-
 
 <!--
 **Parami2318/Parami2318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
