@@ -1,6 +1,7 @@
 # Hi, I'm Parami
 
 🎓 Software Engineering Student | Sri Lanka
+
 🧪 Aspiring QA Engineer | Manual & Automation Testing
 
 ---
